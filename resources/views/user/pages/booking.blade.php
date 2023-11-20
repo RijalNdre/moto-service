@@ -28,7 +28,7 @@
                                     <input type="date" class="form-control input-booking" id="tanggal"
                                         aria-describedby="emailHelp">
                                 </div>
-
+                                <p>INI HALAMAN BOOKING</p>
                                 <div class="mb-4">
                                     <label for="permasalahan" class="form-label label-booking">Permasalahan</label>
                                     <textarea class="form-control input-booking p-4" name="permasalahan" id="permasalahan" cols="30" rows="10"></textarea>
